@@ -4,6 +4,7 @@
 - Ajouter un étudiant avec sa note
 - Afficher tous les étudiants
 - Afficher les étudiants admis (note ≥ 10)
+- Enregistre les étudiants et les notes dans un fichier .ser
 
 ## Lancer le programme
 
@@ -12,5 +13,5 @@
 
 ### En ligne de commande
 ```bash
-javac NoteManager/*.java
-java NoteManager.Main
+javac *.java
+java Main
